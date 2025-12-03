@@ -20,4 +20,4 @@ The guide covers accurate scientific concepts including:
 - **`packing.html`**: Essential tips for dealing with Time Dilation and Redshift.
 - **`resources.html`**: A glossary of terms and image credits.
 
-[view here](https://pvarshh.github.io/astro107/)
+[view the project here](https://pvarshh.github.io/astro107/)
