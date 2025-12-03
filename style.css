@@ -1,0 +1,128 @@
+body {
+    background-color: #000000;
+    background-image: 
+        radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 3px),
+        radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 2px),
+        radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 3px);
+    background-size: 550px 550px, 350px 350px, 250px 250px;
+    background-position: 0 0, 40px 60px, 130px 270px;
+    color: #e0e0e0;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgba(17, 17, 17, 0.9);
+    border-bottom: 2px solid #444;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-shadow: 0 0 15px #4a9eff;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #4a9eff;
+    border-bottom: 1px solid #333;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #aaa;
+    margin-top: 30px;
+}
+
+nav {
+    background-color: rgba(34, 34, 34, 0.9);
+    padding: 15px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    border-bottom: 1px solid #333;
+}
+
+nav a {
+    color: #aaa;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 1.1em;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #4a9eff;
+    text-shadow: 0 0 8px #4a9eff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 40px;
+    background-color: rgba(10, 10, 10, 0.95);
+    border: 1px solid #333;
+    box-shadow: 0 0 30px rgba(74, 158, 255, 0.1);
+    border-radius: 5px;
+}
+
+.content-image {
+    width: 100%;
+    height: auto;
+    border: 1px solid #444;
+    margin: 20px 0;
+    border-radius: 4px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+
+.caption {
+    font-size: 0.8em;
+    color: #888;
+    text-align: center;
+    margin-top: -15px;
+    margin-bottom: 25px;
+    font-style: italic;
+}
+
+.warning-box {
+    border-left: 4px solid #ff4444;
+    background-color: rgba(42, 0, 0, 0.5);
+    color: #ffcccc;
+    padding: 20px;
+    margin: 25px 0;
+}
+
+.tip-box {
+    border-left: 4px solid #44ff44;
+    background-color: rgba(0, 42, 0, 0.5);
+    color: #ccffcc;
+    padding: 20px;
+    margin: 25px 0;
+}
+
+.concept-tag {
+    display: inline-block;
+    background-color: #222;
+    color: #4a9eff;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 0.9em;
+    border: 1px solid #333;
+}
+
+footer {
+    text-align: center;
+    padding: 40px;
+    font-size: 0.8em;
+    color: #666;
+    background-color: #050505;
+    border-top: 1px solid #333;
+    margin-top: 60px;
+}
