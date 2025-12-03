@@ -1,17 +1,23 @@
 # The Interstellar Traveler’s Guide to Black Holes
 
-**Project Format:** Educational Website / Creative Guide
+Welcome to the ultimate digital safety brochure for future space tourists! This website is a creative educational guide designed to explain the complex physics of black holes through the lens of a travel agency.
 
-## Plan
-I plan to create an exploratory website titled **"The Interstellar Traveler’s Guide to Black Holes."** The site will be designed as a digital safety brochure for future space tourists planning to visit a black hole.
+## About the Project
 
-The website will feature an interactive menu allowing users to "explore" different sections of a black hole. For example, a "Safety Warnings" page will explain the **Event Horizon** and why nothing can escape it, while a "Sightseeing" page will use diagrams to explain the **Accretion Disc** and **Gravitational Lensing**.
+This project transforms a standard physics lesson into an interactive "Travel Guide." Instead of dry textbook definitions, users explore the dangers and wonders of black holes as if they were planning a vacation.
 
-This format allows me to combine accurate physics definitions with a creative, exploratory theme, making complex topics like **Time Dilation** easier to understand for a general audience.
+The guide covers accurate scientific concepts including:
+- **The Event Horizon:** Why it's the ultimate "point of no return."
+- **Spaghettification:** The dangers of tidal forces.
+- **Time Dilation:** Why you might need a new calendar when you get back.
+- **Accretion Discs & Gravitational Lensing:** The spectacular views you'll see (if you survive).
 
-## Structure
-- `index.html`: Homepage / Welcome Center
-- `safety.html`: Safety Warnings (Event Horizon, Spaghettification)
-- `sightseeing.html`: Sightseeing (Accretion Disc, Gravitational Lensing)
-- `packing.html`: What to Pack (Time Dilation)
-- `style.css`: Stylesheet for the space theme
+## Site Structure
+
+- **`index.html`**: The Welcome Center and main hub.
+- **`safety.html`**: Critical warnings about the Event Horizon and Spaghettification.
+- **`sightseeing.html`**: A guide to the visual phenomena like the Accretion Disc.
+- **`packing.html`**: Essential tips for dealing with Time Dilation and Redshift.
+- **`resources.html`**: A glossary of terms and image credits.
+
+[view here](https://pvarshh.github.io/astro107/)
